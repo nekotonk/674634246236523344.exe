@@ -1,3 +1,3 @@
 # 674634246236523344.exe
 674634246236523344
-Do'not run on real pc
+Don't run on real pc
